@@ -1,6 +1,6 @@
 # Final Project
 
-## In this project, I work on the "political activity"/ "disagreements in politics" part of the final report. 
+## I work on the "political activity"/ "disagreements in politics" part of the final report. 
 
 In the 2020 presidential election season, social media platforms, like Twitter, have taken on a heightened role of importance in shaping citizens’ political engagement. This real-life case implies that people with diﬀerent political stands may have notable diﬀerences in how they use Twitter, and their use of Twitter and consumption of online information may at the same time make them hold radically diﬀerent political views towards a wide range of social issues. To explore the underlying dynamics of users’ ideological beliefs and opinions on both politics and everyday life, we focus on two variables representative of people’s political stands: (1) stated party aﬃliation and (2) their attitudes towards Trump’s role as President (either support or not support).
 
